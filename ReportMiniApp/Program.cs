@@ -1,7 +1,6 @@
 ﻿namespace ReportMiniApp
 {
     using System;
-    using System.Reflection;
 
     internal class Program
     {
