@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ReportMiniApp": {
+      "commandName": "Project",
+      "commandLineArgs": "DemoReport.xml"
+    }
+  }
+}
